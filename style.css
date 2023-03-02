@@ -10,23 +10,23 @@ body {
 
 h1 {
     color: whitesmoke;
-    font-size: 120px;
+    font-size: 80px;
     text-shadow: -4px -4px rgb(165, 33, 108);
     position: relative;
-    top: 4rem;
+    top: 3rem;
 }
 
 #flex {
     display: flex;
     justify-content: space-around;
     position: relative;
-    top: 25rem;
+    top: 10rem;
 
 }
 
 .drum {
-    width: 15rem;
-    height: 15rem;
+    width: 10rem;
+    height: 10rem;
     border-radius: 20px;
     border: 10px solid rgb(122, 150, 176);
     color: rgb(134, 74, 127);
@@ -36,7 +36,7 @@ h1 {
 
 footer {
     position: relative;
-    top: 700px;
+    top: 275px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: white;
     font-size: 30px;
